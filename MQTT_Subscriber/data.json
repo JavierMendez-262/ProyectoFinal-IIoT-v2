@@ -1,0 +1,6 @@
+{
+  "thresholds": {
+      "max_temperature": 30,
+      "min_temperature": 8
+    }
+}
